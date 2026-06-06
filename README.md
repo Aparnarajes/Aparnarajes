@@ -1,8 +1,7 @@
 <a href="https://github.com/Aparnarajes">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=APARNA%20RAJESH&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Problem%20Architect&descAlignY=62&descSize=17&descColor=a0c4ff" />
 </a>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aparna%20Rajesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16" width="100%"/>
+
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
