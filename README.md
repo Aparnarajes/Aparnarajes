@@ -182,8 +182,8 @@ class AparnaRajesh:
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
 | B.Tech — Artificial Intelligence & Machine Learning | Srinivas Institute of Engineering and Technology | 2026 | CGPA: 8.76 |
-| Class XII | — | — | 92% |
-| Class X | — | — | Full A+ |
+| Class XII | MGHSS Pala | 2021 | 92% |
+| Class X | St Marys | 2019 | Full A+ |
 
 </div>
 
