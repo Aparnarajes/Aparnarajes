@@ -148,7 +148,7 @@ class AparnaRajesh:
 
 | Project | Stack | Highlights |
 |--------|-------|-----------|
-| [🎓 **IntelliCampus** – AI Campus Management System](https://github.com/Aparnarajes) | React.js · Node.js · Prisma · SQLite · MongoDB | Role-based dashboards for Admin, Faculty & Students; predictive at-risk student models; **KCST-approved** & **IEEE Conference accepted (2026)** |
+| [🎓 **IntelliCampus** – AI Campus Management System](https://github.com/Aparnarajes/INTELLICAMPUS) | React.js · Node.js · Prisma · SQLite · MongoDB | Role-based dashboards for Admin, Faculty & Students; predictive at-risk student models; **KCST-approved** & **IEEE Conference accepted (2026)** |
 | [📈 **Trader Performance vs Market Sentiment**](https://github.com/Aparnarajes) | Python · Pandas · NumPy · Matplotlib | End-to-end analysis pipeline linking Fear & Greed indicators to trader behavior; ML-driven strategies for improved risk management |
 | [🧠 **MindSight** – Mental Health Prediction](https://github.com/Aparnarajes) | Python · Scikit-learn · XGBoost | Multi-model classification for mental health risk; evaluated with Accuracy, F1-score & AUC-ROC metrics; supports early intervention strategies |
 
