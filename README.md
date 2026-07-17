@@ -33,49 +33,6 @@
 <img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
-
----
-
-# 💫 About Me
-
-```python
-class AparnaRajesh:
-
-    def __init__(self):
-
-        self.role = "AI & Machine Learning Engineer"
-
-        self.education = "B.Tech Artificial Intelligence & Machine Learning"
-
-        self.cgpa = "8.76"
-
-        self.location = "Bangalore, India 🇮🇳"
-
-        self.languages = [
-            "Python",
-            "SQL",
-            "JavaScript"
-        ]
-
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Science",
-            "Predictive Analytics",
-            "Natural Language Processing"
-        ]
-
-        self.currently_learning = [
-            "Generative AI",
-            "Large Language Models",
-            "MLOps",
-            "Cloud AI"
-        ]
-
-    def motto(self):
-        return "Transforming data into intelligent solutions."
-```
-
 ## 🚀 Who Am I?
 
 🎓 Artificial Intelligence & Machine Learning Graduate
