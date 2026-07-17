@@ -2,7 +2,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,20:1E293B,45:312E81,70:2563EB,100:38BDF8&text=APARNA%20RAJESH&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Data%20Scientist%20•%20Machine%20Learning%20Researcher&descAlignY=60&descSize=18"/>
 </a>
 <div align="center">
-# 👋 Hello, I'm Aparna Rajesh
+
+  # 👋 Hello, I'm Aparna Rajesh
 
 ## AI & Machine Learning Engineer • Data Science • Predictive Analytics • IEEE Conference Accepted Researcher
 
