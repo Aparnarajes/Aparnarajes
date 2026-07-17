@@ -6,7 +6,7 @@
 
 # 👋 Hello, I'm Aparna Rajesh
 
-### AI & Machine Learning Engineer • Data Science • Predictive Analytics • IEEE Conference Accepted Researcher
+## AI & Machine Learning Engineer • Data Science • Predictive Analytics • IEEE Conference Accepted Researcher
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+solutions+for+real-world+problems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Python+Developer+%7C+Research+Enthusiast;Always+Learning+Something+New+🚀" />
 
@@ -121,11 +121,7 @@ Machine Learning • Deep Learning • XGBoost • Scikit-learn • Hugging Face
 </p>
 
 ---
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</p>
 ## 📊 Data Science
 
 <p align="center">
@@ -134,7 +130,7 @@ Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Statist
 
 </p>
 
----
+
 
 ## 🌐 Development
 
@@ -191,6 +187,11 @@ Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Statist
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparnarajes&theme=tokyo-night&hide_border=true"/>
 
 </div>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+</p>
 
 # 💼 Professional Experience
 
