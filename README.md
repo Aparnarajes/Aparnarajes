@@ -62,49 +62,27 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 ### 🎓 IntelliCampus
-*AI-Powered Smart Campus Management Platform*
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-blue?style=for-the-badge)](https://intellicampus-alpha.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/INTELLICAMPUS)
-
-**Tech Stack:** React.js • Node.js • Prisma • MongoDB • AI
-
-> An intelligent campus management platform featuring AI-powered assistance, attendance management, analytics dashboards, role-based authentication, and academic workflow automation.
+AI-powered Smart Campus Management Platform  
+🔗 **Live:** https://intellicampus-alpha.vercel.app • **Repo:** https://github.com/Aparnarajes/INTELLICAMPUS
 
 ---
 
 ### 📈 Apple Stock Price Prediction
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/APPLE-STOCK-PRICE-PREDICTION-FORECASTING-30-DAYS-)
-
-**Tech Stack:** Python • TensorFlow • GRU • Streamlit • ONNX
-
-> Developed a GRU-based deep learning model for **30-day Apple stock forecasting**, achieving **98.2% R²** with an interactive Streamlit dashboard.
+GRU-based deep learning model for 30-day stock forecasting.  
+🔗 https://github.com/Aparnarajes/APPLE-STOCK-PRICE-PREDICTION-FORECASTING-30-DAYS-
 
 ---
 
 ### 🚗 Car Price Prediction
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/Car24_price_prediction)
-
-**Tech Stack:** Python • Scikit-learn • Random Forest • XGBoost • Streamlit
-
-> Built a machine learning web application that predicts used car prices using regression models, feature engineering, and interactive visualizations.
+Machine learning web application for used car price prediction.  
+🔗 https://github.com/Aparnarajes/Car24_price_prediction
 
 ---
 
 ### 🧠 MindSight
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/MINDSIGHT-Mental-health-prediction-and-analysis-system)
-
-**Tech Stack:** Python • Flask • Machine Learning • HTML • CSS
-
-> AI-powered mental health prediction and analysis system that provides intelligent assessments using machine learning models and an interactive web interface.
-
-</div>
+AI-powered mental health prediction and analysis system.  
+🔗 https://github.com/Aparnarajes/MINDSIGHT-Mental-health-prediction-and-analysis-system
 
 ### Recognition
 
