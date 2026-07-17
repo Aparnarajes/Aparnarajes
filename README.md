@@ -68,51 +68,12 @@
 
 # 💼 Professional Experience
 
-## 🚀 AI Variant | Data Science Intern
+| Company | Position | Duration | Tech Stack | Responsibilities |
+| :--- | :--- | :--- | :--- | :--- |
+|  **AI Variant**<br>Bangalore, India | **Data Science Intern** | **Dec 2025 – Present** | Python, Pandas, NumPy, Scikit-learn, Machine Learning, Data Pipelines, EDA | • Designed end-to-end data preprocessing pipelines for enterprise datasets.<br>• Built predictive machine learning models using statistical modeling techniques.<br>• Improved model performance through feature engineering and cross-validation.<br>• Collaborated with cross-functional teams to deliver AI-driven business solutions.<br>• Developed scalable production-ready data workflows. |
+|  **Wayeva Technologies**<br>Bangalore, India | **Data Science Intern** | **May 2025 – Jul 2025** | Python, Machine Learning, XGBoost, Random Forest, Feature Engineering | • Built predictive machine learning models on real-world datasets.<br>• Applied feature engineering techniques to improve model accuracy.<br>• Performed exploratory data analysis (EDA) and visualization.<br>• Evaluated multiple machine learning algorithms for business use cases.<br>• Delivered actionable insights through data-driven analytics. |
+|  **Dhanwis Techinfo Solutions**<br>Kannur, India | **Python Developer Intern** | **Jan 2025 – Mar 2025** | Python, Automation, Backend Development | • Developed Python scripts for automation and backend processes.<br>• Debugged and optimized existing applications.<br>• Collaborated with developers on software maintenance and testing.<br>• Improved internal workflow automation using Python. |
 
-**📍 Bangalore, India**  
-**🗓️ Dec 2025 – Present**
-
-> **Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Machine Learning • Data Pipelines • EDA
-
-- Designed end-to-end data preprocessing pipelines for enterprise datasets.
-- Built predictive machine learning models using statistical modeling techniques.
-- Improved model performance through feature engineering and cross-validation.
-- Collaborated with cross-functional teams to translate business requirements into AI-driven solutions.
-- Developed scalable data processing workflows for production-ready AI applications.
-
----
-
-## 📊 Wayeva Technologies | Data Science Intern
-
-**📍 Bangalore, India**
-
-**🗓️ May 2025 – Jul 2025**
-
-> **Tech Stack:** Python • Machine Learning • XGBoost • Random Forest • Feature Engineering
-
-- Built predictive machine learning models on real-world datasets.
-- Applied feature engineering techniques to improve model accuracy.
-- Performed exploratory data analysis and visualization.
-- Evaluated multiple ML algorithms for business use cases.
-- Delivered data-driven insights through analytical reports.
-
----
-
-## 🐍 Dhanwis Techinfo Solutions | Python Developer Intern
-
-**📍 Kannur, India**
-
-**🗓️ Jan 2025 – Mar 2025**
-
-> **Tech Stack:** Python • Automation • Backend Development
-
-- Developed Python scripts for automation and backend tasks.
-- Debugged and optimized existing codebases.
-- Collaborated with developers on software maintenance and testing.
-- Improved internal workflow automation using Python.
-
----
 
 # 🚀 Featured Projects
 
