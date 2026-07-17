@@ -403,4 +403,153 @@ Status
 
 🧩 Agentic AI
 ```
+# 🛠 Technical Expertise
+
+<div align="center">
+
+| Domain | Technologies |
+|---------|--------------|
+| 💻 Programming | Python • SQL • JavaScript |
+| 🤖 Artificial Intelligence | Machine Learning • Deep Learning • NLP • Predictive Analytics |
+| 📊 Data Science | Pandas • NumPy • EDA • Statistical Analysis • Feature Engineering |
+| 📈 Data Visualization | Matplotlib • Seaborn • Power BI • Tableau |
+| 🧠 Machine Learning | Scikit-learn • XGBoost • TensorFlow • Hugging Face |
+| 🌐 Web Development | React.js • Node.js • Flask |
+| ☁️ Cloud | AWS Cloud Foundations |
+| 🗄 Database | MySQL • MongoDB • SQLite |
+| ⚙️ Tools | Git • GitHub • VS Code • Anaconda |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certification | Provider |
+|--------------|----------|
+| 🎓 Masters Program in Data Science | ExcelR |
+| ☁️ AWS Cloud Foundations | AWS Academy |
+| 🏗 AWS APAC Solutions Architecture Job Simulation | AWS |
+| 🤖 Deep Learning using TensorFlow | TensorFlow |
+| 💻 Weekly Coding Challenge | Participation |
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aparnarajes&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparnarajes&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Snake
+
+<div align="center">
+
+> *(Enable GitHub Actions later to generate this automatically.)*
+
+<img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
+
+<div align="center">
+
+| Metric | Value |
+|--------|------|
+| 🚀 Machine Learning Projects | 10+ |
+| 💻 Programming Languages | Python • SQL • JavaScript |
+| 🧠 AI Domains | ML • DL • NLP |
+| 📈 Data Analysis | EDA • Visualization • Predictive Analytics |
+| 🏗 Frameworks | React • Flask • TensorFlow |
+| 📄 Research Papers | IEEE Conference Accepted |
+| ☁️ Cloud | AWS Foundations |
+| 🎯 Current Goal | AI / ML Engineer |
+
+</div>
+
+---
+
+# 🌎 Open Source Goals
+
+- 🌟 Contribute to open-source AI projects
+- 🤝 Collaborate with developers worldwide
+- 📚 Publish reusable ML projects
+- 📦 Build production-ready AI applications
+- 🚀 Share knowledge with the community
+
+---
+
+# 💡 Interests
+
+```text
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Computer Vision
+Natural Language Processing
+Large Language Models
+Generative AI
+Data Science
+Predictive Analytics
+Research
+Cloud Computing
+MLOps
+```
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:aparnarajeshapzz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aparnarajesh25">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aparnarajes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-eight-ecru-74.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+### *"Artificial Intelligence is not about replacing humans — it's about empowering them to solve bigger problems."*
+
+</div>
+
+---
 
