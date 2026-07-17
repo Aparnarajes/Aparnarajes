@@ -553,3 +553,183 @@ MLOps
 
 ---
 
+# 🌟 Featured Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,react,nodejs,flask,mongodb,mysql,git,github,aws,docker,vscode"/>
+
+</div>
+
+---
+
+# 📊 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aparnarajes&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aparnarajes&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aparnarajes&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aparnarajes&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aparnarajes&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become a Machine Learning Engineer
+- 🤖 Publish impactful AI research
+- 🌍 Contribute to Open Source AI
+- ☁️ Master MLOps & Cloud AI
+- 🧠 Build Production-Ready AI Systems
+- 📈 Reach 1000+ GitHub Contributions
+- 🏆 Crack a top AI/Data Science role
+
+---
+
+# 💙 Support My Work
+
+If you like my projects, consider giving them a ⭐.
+
+It motivates me to build more open-source AI and Data Science projects.
+
+<div align="center">
+
+⭐ ⭐ ⭐ ⭐ ⭐
+
+</div>
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🧠 Machine Learning
+- 📈 Predictive Analytics
+- ☁️ Cloud AI
+- 🏥 Healthcare AI
+- 💹 Financial AI
+- 🌍 Open Source Projects
+
+---
+
+# 📫 Reach Me
+
+<div align="center">
+
+### 📧 aparnarajeshapzz@gmail.com
+
+### 💼 www.linkedin.com/in/aparnarajesh25
+
+### 🌐 https://portfolio-eight-ecru-74.vercel.app
+
+### 💻 https://github.com/Aparnarajes
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+> **Enable GitHub Actions using the workflow below.**
+
+Create:
+
+```
+.github/workflows/snake.yml
+```
+
+Paste:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+
+        with:
+          github_user_name: Aparnarajes
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After enabling GitHub Actions, this image will work:
+
+```html
+<img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg"/>
+```
+
+---
+
+# 💡 Fun Fact
+
+```python
+while True:
+
+    learn()
+
+    build()
+
+    improve()
+
+    repeat()
+```
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for Visiting ⭐
+
+### "Code with Curiosity. Build with Purpose. Learn for Life."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0F172A,30:1E293B,60:312E81,100:38BDF8"/>
+
+</div>
