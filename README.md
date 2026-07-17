@@ -344,25 +344,6 @@ MongoDB
 
 ---
 
-# 📚 Research
-
-## 📄 IEEE Conference Accepted Research
-
-### IntelliCampus — AI Based Smart Campus Management System
-
-Research Areas
-
-- Artificial Intelligence
-- Predictive Analytics
-- Educational Technology
-- Student Performance Prediction
-- Academic Decision Support
-
-Status
-
-✅ IEEE Conference Accepted
-
----
 
 # 🏆 Achievements
 
@@ -389,44 +370,7 @@ Status
 
 ---
 
-# 🌱 Currently Learning
 
-```text
-🧠 Advanced Deep Learning
-
-🤖 Large Language Models (LLMs)
-
-⚙️ MLOps & Model Deployment
-
-☁️ AWS Machine Learning
-
-📊 Advanced Power BI
-
-🔍 Retrieval-Augmented Generation (RAG)
-
-🚀 AI System Design
-
-🧩 Agentic AI
-```
-# 🛠 Technical Expertise
-
-<div align="center">
-
-| Domain | Technologies |
-|---------|--------------|
-| 💻 Programming | Python • SQL • JavaScript |
-| 🤖 Artificial Intelligence | Machine Learning • Deep Learning • NLP • Predictive Analytics |
-| 📊 Data Science | Pandas • NumPy • EDA • Statistical Analysis • Feature Engineering |
-| 📈 Data Visualization | Matplotlib • Seaborn • Power BI • Tableau |
-| 🧠 Machine Learning | Scikit-learn • XGBoost • TensorFlow • Hugging Face |
-| 🌐 Web Development | React.js • Node.js • Flask |
-| ☁️ Cloud | AWS Cloud Foundations |
-| 🗄 Database | MySQL • MongoDB • SQLite |
-| ⚙️ Tools | Git • GitHub • VS Code • Anaconda |
-
-</div>
-
----
 
 # 📜 Certifications
 
@@ -442,49 +386,8 @@ Status
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aparnarajes&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparnarajes&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
 
 
----
-
-# 📊 GitHub Summary
-
-<div align="center">
-
-| Metric | Value |
-|--------|------|
-| 🚀 Machine Learning Projects | 10+ |
-| 💻 Programming Languages | Python • SQL • JavaScript |
-| 🧠 AI Domains | ML • DL • NLP |
-| 📈 Data Analysis | EDA • Visualization • Predictive Analytics |
-| 🏗 Frameworks | React • Flask • TensorFlow |
-| 📄 Research Papers | IEEE Conference Accepted |
-| ☁️ Cloud | AWS Foundations |
-| 🎯 Current Goal | AI / ML Engineer |
-
-</div>
-
----
 
 
 
@@ -542,66 +445,6 @@ Status
 
 </div>
 
----
-
-
-# 💙 Support My Work
-
-If you like my projects, consider giving them a ⭐.
-
-It motivates me to build more open-source AI and Data Science projects.
-
-<div align="center">
-
-⭐ ⭐ ⭐ ⭐ ⭐
-
-</div>
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning
-- 📈 Predictive Analytics
-- ☁️ Cloud AI
-- 🏥 Healthcare AI
-- 💹 Financial AI
-- 🌍 Open Source Projects
-
----
-
-# 📫 Reach Me
-
-<div align="center">
-
-### 📧 aparnarajeshapzz@gmail.com
-
-### 💼 www.linkedin.com/in/aparnarajesh25
-
-### 🌐 https://portfolio-eight-ecru-74.vercel.app
-
-### 💻 https://github.com/Aparnarajes
-
-</div>
-
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-
-# 💡 Fun Fact
 
 ```python
 while True:
