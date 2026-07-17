@@ -33,7 +33,7 @@
 <img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
-##  Who Am I?
+##Who Am I?
 
 🎓 Artificial Intelligence & Machine Learning Graduate
 
