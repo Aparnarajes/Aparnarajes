@@ -188,4 +188,219 @@ Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Statist
 
 </div>
 
+# 💼 Professional Experience
+
+## 🚀 AI Variant | Data Science Intern
+
+**📍 Bangalore, India**  
+**🗓️ Dec 2025 – Present**
+
+> **Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Machine Learning • Data Pipelines • EDA
+
+- Designed end-to-end data preprocessing pipelines for enterprise datasets.
+- Built predictive machine learning models using statistical modeling techniques.
+- Improved model performance through feature engineering and cross-validation.
+- Collaborated with cross-functional teams to translate business requirements into AI-driven solutions.
+- Developed scalable data processing workflows for production-ready AI applications.
+
 ---
+
+## 📊 Wayeva Technologies | Data Science Intern
+
+**📍 Bangalore, India**
+
+**🗓️ May 2025 – Jul 2025**
+
+> **Tech Stack:** Python • Machine Learning • XGBoost • Random Forest • Feature Engineering
+
+- Built predictive machine learning models on real-world datasets.
+- Applied feature engineering techniques to improve model accuracy.
+- Performed exploratory data analysis and visualization.
+- Evaluated multiple ML algorithms for business use cases.
+- Delivered data-driven insights through analytical reports.
+
+---
+
+## 🐍 Dhanwis Techinfo Solutions | Python Developer Intern
+
+**📍 Kannur, India**
+
+**🗓️ Jan 2025 – Mar 2025**
+
+> **Tech Stack:** Python • Automation • Backend Development
+
+- Developed Python scripts for automation and backend tasks.
+- Debugged and optimized existing codebases.
+- Collaborated with developers on software maintenance and testing.
+- Improved internal workflow automation using Python.
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🧠 Alzheimer's Disease Prediction
+
+### Machine Learning • Healthcare AI
+
+**Tech Stack**
+
+Python • Scikit-learn • XGBoost • Statsmodels • Pandas • NumPy • Seaborn
+
+### Highlights
+
+- Built an end-to-end ML pipeline for Alzheimer's prediction.
+- Performed extensive EDA and feature engineering.
+- Applied VIF analysis and correlation thresholding.
+- Benchmarked multiple ML algorithms.
+- Achieved **95%+ prediction accuracy**.
+- Identified the most influential clinical predictors.
+
+---
+
+## 📈 Apple Stock Price Prediction
+
+### Deep Learning • Time Series Forecasting
+
+**Tech Stack**
+
+Python • TensorFlow • GRU • ONNX Runtime • Streamlit
+
+### Highlights
+
+- Built a GRU neural network for 30-day stock forecasting.
+- Engineered technical indicators including:
+
+  - SMA
+  - RSI
+  - Bollinger Bands
+
+- Achieved:
+
+✅ 98.2% R² Score
+
+✅ 1.35% MAPE
+
+- Exported trained model to ONNX for optimized deployment.
+- Built an interactive Streamlit dashboard.
+
+---
+
+## 🚗 Car Price Prediction System
+
+### Machine Learning • Regression
+
+**Tech Stack**
+
+Python • Scikit-learn • Random Forest • XGBoost • Streamlit
+
+### Highlights
+
+- Compared six regression algorithms.
+- Performed complete EDA and feature engineering.
+- Selected Random Forest as best model.
+- Built a production-ready prediction application.
+
+---
+
+## 🎓 IntelliCampus
+
+### AI Powered Smart Campus Platform
+
+**Tech Stack**
+
+React.js
+
+Node.js
+
+Prisma
+
+SQLite
+
+MongoDB
+
+### Features
+
+- Student Dashboard
+- Faculty Dashboard
+- Admin Dashboard
+- AI Academic Assistant
+- Attendance Management
+- Analytics Dashboard
+- Predictive Student Performance
+- Role-based Authentication
+
+### Recognition
+
+🏆 KCST Approved
+
+📄 IEEE Conference Accepted (2026)
+
+---
+
+# 📚 Research
+
+## 📄 IEEE Conference Accepted Research
+
+### IntelliCampus — AI Based Smart Campus Management System
+
+Research Areas
+
+- Artificial Intelligence
+- Predictive Analytics
+- Educational Technology
+- Student Performance Prediction
+- Academic Decision Support
+
+Status
+
+✅ IEEE Conference Accepted
+
+---
+
+# 🏆 Achievements
+
+| Achievement | Description |
+|-------------|-------------|
+| 🏅 IEEE Conference | Research accepted for presentation |
+| 🚀 KCST | Approved Innovation Project |
+| 🎓 CGPA | **8.76 / 10** |
+| 📚 Class XII | **92%** |
+| 🌟 Class X | Full A+ |
+| 👩‍💼 Vice President | AI & ML Department |
+| 📊 Business Analyst Club | Active Member |
+| 🤖 Data Science Club | Active Member |
+
+---
+
+# 🎓 Education
+
+| Degree | Institution | Score |
+|---------|------------|------:|
+| B.Tech Artificial Intelligence & Machine Learning | Srinivas Institute of Engineering & Technology | **CGPA 8.76** |
+| Higher Secondary | MGHSS Pala | **92%** |
+| SSLC | St. Mary's | **Full A+** |
+
+---
+
+# 🌱 Currently Learning
+
+```text
+🧠 Advanced Deep Learning
+
+🤖 Large Language Models (LLMs)
+
+⚙️ MLOps & Model Deployment
+
+☁️ AWS Machine Learning
+
+📊 Advanced Power BI
+
+🔍 Retrieval-Augmented Generation (RAG)
+
+🚀 AI System Design
+
+🧩 Agentic AI
+```
+
