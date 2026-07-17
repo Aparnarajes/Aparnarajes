@@ -51,73 +51,14 @@
 
 ---
 
-# ⚙️ Tech Stack
+# 🌟 Featured Technologies
 
-## 👨‍💻 Languages
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,react,nodejs,flask,mongodb,mysql,git,github,aws,docker,vscode"/>
 
-<img src="https://skillicons.dev/icons?i=python,sql,javascript"/>
+</div>
 
-</p>
-
----
-
-## 🤖 AI • Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-<p align="center">
-
-Machine Learning • Deep Learning • XGBoost • Scikit-learn • Hugging Face • NLP • Feature Engineering • Model Evaluation • Predictive Analytics
-
-</p>
-
----
-
-## 📊 Data Science
-
-<p align="center">
-
-Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Statistics • Data Cleaning • EDA
-
-</p>
-
-
-
-## 🌐 Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask"/>
-
-</p>
-
----
-
-## ☁️ Cloud & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
-
-</p>
-
----
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -347,13 +288,6 @@ MongoDB
 
 
 
-# 🌟 Featured Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,react,nodejs,flask,mongodb,mysql,git,github,aws,docker,vscode"/>
-
-</div>
 
 ---
 
