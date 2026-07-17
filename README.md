@@ -33,20 +33,6 @@
 <img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
-<div align="center">
-##who AM i?
-
-🎓 Artificial Intelligence & Machine Learning Graduate
-
-📊 Passionate about solving real-world business problems using AI
-
-🤖 Interested in Machine Learning, Deep Learning, NLP & Generative AI
-
-💼 Data Science Intern
-
-🌱 Constantly exploring cutting-edge AI technologies
-
-🎯 Open to Full-Time AI/ML, Data Science & Software Engineering opportunities
 
 # 🌟 Featured Technologies
 </div>
