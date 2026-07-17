@@ -119,31 +119,6 @@ Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Statist
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aparnarajes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparnarajes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aparnarajes&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparnarajes&theme=tokyo-night&hide_border=true"/>
-
-</div>
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
