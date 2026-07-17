@@ -66,13 +66,13 @@
   <img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
-# 💼 Professional Experience
+# 💼 Internship Experience
 
-| Company | Position | Duration | Tech Stack | Responsibilities |
-| :--- | :--- | :--- | :--- | :--- |
-|  **AI Variant**<br>Bangalore, India | **Data Science Intern** | **Dec 2025 – Present** | Python, Pandas, NumPy, Scikit-learn, Machine Learning, Data Pipelines, EDA | • Designed end-to-end data preprocessing pipelines for enterprise datasets.<br>• Built predictive machine learning models using statistical modeling techniques.<br>• Improved model performance through feature engineering and cross-validation.<br>• Collaborated with cross-functional teams to deliver AI-driven business solutions.<br>• Developed scalable production-ready data workflows. |
-|  **Wayeva Technologies**<br>Bangalore, India | **Data Science Intern** | **May 2025 – Jul 2025** | Python, Machine Learning, XGBoost, Random Forest, Feature Engineering | • Built predictive machine learning models on real-world datasets.<br>• Applied feature engineering techniques to improve model accuracy.<br>• Performed exploratory data analysis (EDA) and visualization.<br>• Evaluated multiple machine learning algorithms for business use cases.<br>• Delivered actionable insights through data-driven analytics. |
-|  **Dhanwis Techinfo Solutions**<br>Kannur, India | **Python Developer Intern** | **Jan 2025 – Mar 2025** | Python, Automation, Backend Development | • Developed Python scripts for automation and backend processes.<br>• Debugged and optimized existing applications.<br>• Collaborated with developers on software maintenance and testing.<br>• Improved internal workflow automation using Python. |
+| Company | Role | Duration | Highlights |
+|---------|------|----------|------------|
+| 🚀 **AI Variant** | Data Science Intern | Dec 2025 – Present | Built ML models, developed data pipelines, performed EDA, feature engineering, and model optimization. |
+| 📊 **Wayeva Technologies** | Data Science Intern | May 2025 – Jul 2025 | Developed predictive ML models, conducted EDA, feature engineering, and model evaluation. |
+| 🐍 **Dhanwis Techinfo Solutions** | Python Developer Intern | Jan 2025 – Mar 2025 | Developed Python automation scripts, optimized code, and supported backend development. |
 
 
 # 🚀 Featured Projects
