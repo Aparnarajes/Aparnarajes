@@ -60,33 +60,47 @@
 
 
 
-### Deep Learning • Time Series Forecasting
+# 🚀 Featured Projects
 
-**Tech Stack**
+<details open>
+<summary><b>🎓 IntelliCampus</b></summary>
 
-Python • TensorFlow • GRU • ONNX Runtime • Streamlit
+AI-powered smart campus management platform.
 
-### Highlights
+**Tech Stack:** React.js • Node.js • Prisma • MongoDB
 
-- Built a GRU neural network for 30-day stock forecasting.
-- Engineered technical indicators including:
+🌐 **Live:** https://intellicampus-alpha.vercel.app
 
-  - SMA
-  - RSI
-  - Bollinger Bands
+💻 **GitHub:** https://github.com/Aparnarajes/INTELLICAMPUS
 
-- Achieved:
+</details>
 
-✅ 98.2% R² Score
+<details>
+<summary><b>📈 Apple Stock Price Prediction</b></summary>
 
-✅ 1.35% MAPE
+GRU-based deep learning model for Apple stock forecasting.
 
-- Exported trained model to ONNX for optimized deployment.
-- Built an interactive Streamlit dashboard.
+💻 https://github.com/Aparnarajes/APPLE-STOCK-PRICE-PREDICTION-FORECASTING-30-DAYS-
 
----
+</details>
 
+<details>
+<summary><b>🚗 Car Price Prediction</b></summary>
 
+Machine learning application for predicting used car prices.
+
+💻 https://github.com/Aparnarajes/Car24_price_prediction
+
+</details>
+
+<details>
+<summary><b>🧠 MindSight</b></summary>
+
+AI-powered mental health prediction and analysis system.
+
+💻 https://github.com/Aparnarajes/MINDSIGHT-Mental-health-prediction-and-analysis-system
+
+</details>
 
 ### Recognition
 
