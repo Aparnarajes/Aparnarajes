@@ -33,7 +33,8 @@
 <img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
-## who AM i?
+<div>
+##who AM i?
 
 🎓 Artificial Intelligence & Machine Learning Graduate
 
@@ -48,6 +49,7 @@
 🎯 Open to Full-Time AI/ML, Data Science & Software Engineering opportunities
 
 # 🌟 Featured Technologies
+</div>
 
 <div align="center">
 
