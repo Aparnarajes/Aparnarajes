@@ -1,219 +1,191 @@
 <a href="https://github.com/Aparnarajes">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=APARNA%20RAJESH&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Problem%20Architect&descAlignY=62&descSize=17&descColor=a0c4ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,20:1E293B,45:312E81,70:2563EB,100:38BDF8&text=APARNA%20RAJESH&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Data%20Scientist%20•%20Machine%20Learning%20Researcher&descAlignY=60&descSize=18"/>
 </a>
 
-
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Aparna+%F0%9F%91%8B;AI+%26+ML+Graduate+%7C+CGPA+8.76;Data+Science+%7C+Predictive+Modeling;IEEE+Published+Researcher+%F0%9F%93%84" alt="Typing SVG" />
-  </a>
+
+# 👋 Hello, I'm Aparna Rajesh
+
+### AI & Machine Learning Engineer • Data Science • Predictive Analytics • IEEE Conference Accepted Researcher
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+solutions+for+real-world+problems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Python+Developer+%7C+Research+Enthusiast;Always+Learning+Something+New+🚀" />
+
+<br>
+
+<a href="https://portfolio-eight-ecru-74.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aparnarajesh25">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aparnarajes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:aparnarajeshapzz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-## 🧠 About Me
-
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+# 💫 About Me
 
 ```python
 class AparnaRajesh:
+
     def __init__(self):
-        self.name        = "Aparna Rajesh"
-        self.location    = "Kottayam, Kerala, India 🇮🇳"
-        self.degree      = "B.Tech in AI & ML — CGPA: 8.76"
-        self.institution = "Srinivas Institute of Engineering & Technology"
-        self.role        = "Data Science Intern @ ExcelR Solutions"
-        self.stack       = [
-            "Python", "Scikit-learn", "TensorFlow",
-            "XGBoost", "Pandas", "NumPy",
-            "React.js", "Node.js", "SQL"
+
+        self.role = "AI & Machine Learning Engineer"
+
+        self.education = "B.Tech Artificial Intelligence & Machine Learning"
+
+        self.cgpa = "8.76"
+
+        self.location = "Bangalore, India 🇮🇳"
+
+        self.languages = [
+            "Python",
+            "SQL",
+            "JavaScript"
         ]
+
+        self.specialization = [
+            "Machine Learning",
+            "Deep Learning",
+            "Data Science",
+            "Predictive Analytics",
+            "Natural Language Processing"
+        ]
+
         self.currently_learning = [
-            "Advanced Deep Learning",
-            "MLOps & Model Deployment",
-            "LLMs & Prompt Engineering"
+            "Generative AI",
+            "Large Language Models",
+            "MLOps",
+            "Cloud AI"
         ]
-        self.fun_fact    = "My project got accepted at an IEEE Conference 🎉"
 
     def motto(self):
-        return "Turn data into decisions, models into impact."
+        return "Transforming data into intelligent solutions."
 ```
 
-<br clear="right"/>
+## 🚀 Who Am I?
+
+🎓 Artificial Intelligence & Machine Learning Graduate
+
+📊 Passionate about solving real-world business problems using AI
+
+🤖 Interested in Machine Learning, Deep Learning, NLP & Generative AI
+
+📄 IEEE Conference Accepted Researcher
+
+💼 Data Science Intern
+
+🌱 Constantly exploring cutting-edge AI technologies
+
+🎯 Open to Full-Time AI/ML, Data Science & Software Engineering opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# ⚙️ Tech Stack
 
-**Languages**
+## 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
 
-**ML / Data Science**
+<img src="https://skillicons.dev/icons?i=python,sql,javascript"/>
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Databases & BI**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI • Machine Learning
 
-<div align="center">
-  <a href="https://github.com/Aparnarajes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aparnarajes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Aparnarajes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparnarajes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-## 🔥 Streak Stats
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aparnarajes&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
+<p align="center">
+
+Machine Learning • Deep Learning • XGBoost • Scikit-learn • Hugging Face • NLP • Feature Engineering • Model Evaluation • Predictive Analytics
+
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📊 Data Science
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparnarajes&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
+<p align="center">
 
----
+Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau • Statistics • Data Cleaning • EDA
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aparnarajes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+</p>
 
 ---
 
-## 💼 Work Experience
+## 🌐 Development
 
-<details>
-  <summary>🏢 <b>ExcelR Solutions</b> — Data Science Intern | Dec 2025 – Present | Bangalore</summary>
-  <br/>
+<p align="center">
 
-  > `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `EDA` `Data Visualization`
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask"/>
 
-  - Performed end-to-end data preprocessing, exploratory data analysis, and visualization on real-world datasets to extract actionable insights.
-  - Built and evaluated machine learning models for predictive analytics tasks, consistently improving model accuracy and reliability.
-  - Presented findings through visual dashboards and reports to communicate complex data patterns clearly to stakeholders.
-
-</details>
-
-<details>
-  <summary>🏢 <b>Wayeva Technologies</b> — Data Science Intern | May 2025 – July 2025</summary>
-  <br/>
-
-  > `Python` `Machine Learning` `Feature Engineering` `Predictive Modeling` `Data Analysis`
-
-  - Applied ML algorithms on real-world datasets for predictive modeling and data-driven decision-making across multiple use cases.
-  - Improved model performance through systematic feature engineering, hyperparameter tuning, and optimization techniques.
-  - Conducted detailed data analysis, identifying key patterns and business insights across different domains.
-
-</details>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## ☁️ Cloud & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|--------|-------|-----------|
-| [🎓 **IntelliCampus** – AI Campus Management System](https://github.com/Aparnarajes/INTELLICAMPUS) | React.js · Node.js · Prisma · SQLite · MongoDB | Role-based dashboards for Admin, Faculty & Students; predictive at-risk student models; **KCST-approved** & **IEEE Conference accepted (2026)** |
-| [📈 **Trader Performance vs Market Sentiment**](https://github.com/Aparnarajes) | Python · Pandas · NumPy · Matplotlib | End-to-end analysis pipeline linking Fear & Greed indicators to trader behavior; ML-driven strategies for improved risk management |
-| [🧠 **MindSight** – Mental Health Prediction](https://github.com/Aparnarajes) | Python · Scikit-learn · XGBoost | Multi-model classification for mental health risk; evaluated with Accuracy, F1-score & AUC-ROC metrics; supports early intervention strategies |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aparnarajes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparnarajes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏅 Achievements
-
 <div align="center">
 
-| 🏷️ | Achievement | Details |
-|----|-------------|---------|
-| 📄 | **IEEE Conference Research Acceptance** | IntelliCampus project accepted at IEEE Conference 2026 |
-| ✅ | **KCST-Approved Project** | IntelliCampus recognized and approved by KCST |
-| 🎓 | **Academic Excellence** | B.Tech CGPA: **8.76** / 10 |
-| 📊 | **Class 12 Board Exams** | Scored **92%** |
-| 🌟 | **Class 10 Board Exams** | Achieved **Full A+** |
-| 👩‍💼 | **Vice-President – AI & ML Department** | Led and coordinated academic, technical & cultural department events |
-| 📊 | **Business Analyst Club Member** | Active contributor to business analytics initiatives |
-| 🔬 | **Data Science Club Member** | Engaged in data science projects and knowledge-sharing activities |
+<img src="https://streak-stats.demolab.com?user=Aparnarajes&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎓 Education
-
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.Tech — Artificial Intelligence & Machine Learning | Srinivas Institute of Engineering and Technology | 2026 | CGPA: 8.76 |
-| Class XII | MGHSS Pala | 2021 | 92% |
-| Class X | St Marys | 2019 | Full A+ |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparnarajes&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
-
-## 🌱 Currently Learning
-
-```
-🧠 Advanced Deep Learning   → CNNs, RNNs, Transformers, Attention Mechanisms
-⚙️  MLOps & Deployment      → Docker, FastAPI, Model Serving, CI/CD for ML
-🤖 LLMs & Gen AI           → Prompt Engineering, RAG, Fine-tuning
-☁️  Cloud for ML            → AWS SageMaker, GCP Vertex AI
-📊 Advanced BI              → Power BI DAX, Tableau Advanced Analytics
-```
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aparnarajesh25-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparnarajesh25)
-[![GitHub](https://img.shields.io/badge/GitHub-Aparnarajes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aparnarajes)
-[![Email](https://img.shields.io/badge/Email-aparnarajeshapzz@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aparnarajeshapzz@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--7561826862-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917561826862)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aparnarajes&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
