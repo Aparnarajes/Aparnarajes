@@ -33,7 +33,7 @@
 <img src="https://komarev.com/ghpvc/?username=Aparnarajes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
-## 🚀 Who Am I?
+##  Who Am I?
 
 🎓 Artificial Intelligence & Machine Learning Graduate
 
@@ -41,15 +41,11 @@
 
 🤖 Interested in Machine Learning, Deep Learning, NLP & Generative AI
 
-📄 IEEE Conference Accepted Researcher
-
 💼 Data Science Intern
 
 🌱 Constantly exploring cutting-edge AI technologies
 
 🎯 Open to Full-Time AI/ML, Data Science & Software Engineering opportunities
-
----
 
 # 🌟 Featured Technologies
 
