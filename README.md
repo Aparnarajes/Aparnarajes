@@ -62,45 +62,49 @@
 
 # 🚀 Featured Projects
 
-<details open>
-<summary><b>🎓 IntelliCampus</b></summary>
+<div align="center">
 
-AI-powered smart campus management platform.
+### 🎓 IntelliCampus
+*AI-Powered Smart Campus Management Platform*
 
-**Tech Stack:** React.js • Node.js • Prisma • MongoDB
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-blue?style=for-the-badge)](https://intellicampus-alpha.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/INTELLICAMPUS)
 
-🌐 **Live:** https://intellicampus-alpha.vercel.app
+**Tech Stack:** React.js • Node.js • Prisma • MongoDB • AI
 
-💻 **GitHub:** https://github.com/Aparnarajes/INTELLICAMPUS
+> An intelligent campus management platform featuring AI-powered assistance, attendance management, analytics dashboards, role-based authentication, and academic workflow automation.
 
-</details>
+---
 
-<details>
-<summary><b>📈 Apple Stock Price Prediction</b></summary>
+### 📈 Apple Stock Price Prediction
 
-GRU-based deep learning model for Apple stock forecasting.
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/APPLE-STOCK-PRICE-PREDICTION-FORECASTING-30-DAYS-)
 
-💻 https://github.com/Aparnarajes/APPLE-STOCK-PRICE-PREDICTION-FORECASTING-30-DAYS-
+**Tech Stack:** Python • TensorFlow • GRU • Streamlit • ONNX
 
-</details>
+> Developed a GRU-based deep learning model for **30-day Apple stock forecasting**, achieving **98.2% R²** with an interactive Streamlit dashboard.
 
-<details>
-<summary><b>🚗 Car Price Prediction</b></summary>
+---
 
-Machine learning application for predicting used car prices.
+### 🚗 Car Price Prediction
 
-💻 https://github.com/Aparnarajes/Car24_price_prediction
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/Car24_price_prediction)
 
-</details>
+**Tech Stack:** Python • Scikit-learn • Random Forest • XGBoost • Streamlit
 
-<details>
-<summary><b>🧠 MindSight</b></summary>
+> Built a machine learning web application that predicts used car prices using regression models, feature engineering, and interactive visualizations.
 
-AI-powered mental health prediction and analysis system.
+---
 
-💻 https://github.com/Aparnarajes/MINDSIGHT-Mental-health-prediction-and-analysis-system
+### 🧠 MindSight
 
-</details>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aparnarajes/MINDSIGHT-Mental-health-prediction-and-analysis-system)
+
+**Tech Stack:** Python • Flask • Machine Learning • HTML • CSS
+
+> AI-powered mental health prediction and analysis system that provides intelligent assessments using machine learning models and an interactive web interface.
+
+</div>
 
 ### Recognition
 
