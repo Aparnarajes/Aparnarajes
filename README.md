@@ -121,7 +121,11 @@ Machine Learning • Deep Learning • XGBoost • Scikit-learn • Hugging Face
 </p>
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+</p>
 ## 📊 Data Science
 
 <p align="center">
@@ -459,15 +463,6 @@ Status
 
 ---
 
-# 🔥 Contribution Snake
-
-<div align="center">
-
-> *(Enable GitHub Actions later to generate this automatically.)*
-
-<img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
@@ -490,34 +485,7 @@ Status
 
 ---
 
-# 🌎 Open Source Goals
 
-- 🌟 Contribute to open-source AI projects
-- 🤝 Collaborate with developers worldwide
-- 📚 Publish reusable ML projects
-- 📦 Build production-ready AI applications
-- 🚀 Share knowledge with the community
-
----
-
-# 💡 Interests
-
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Computer Vision
-Natural Language Processing
-Large Language Models
-Generative AI
-Data Science
-Predictive Analytics
-Research
-Cloud Computing
-MLOps
-```
-
----
 
 # 📬 Let's Connect
 
@@ -541,17 +509,7 @@ MLOps
 
 </div>
 
----
 
-# 💬 Quote
-
-<div align="center">
-
-### *"Artificial Intelligence is not about replacing humans — it's about empowering them to solve bigger problems."*
-
-</div>
-
----
 
 # 🌟 Featured Technologies
 
@@ -585,17 +543,6 @@ MLOps
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Become a Machine Learning Engineer
-- 🤖 Publish impactful AI research
-- 🌍 Contribute to Open Source AI
-- ☁️ Master MLOps & Cloud AI
-- 🧠 Build Production-Ready AI Systems
-- 📈 Reach 1000+ GitHub Contributions
-- 🏆 Crack a top AI/Data Science role
-
----
 
 # 💙 Support My Work
 
@@ -652,59 +599,6 @@ I'm always interested in collaborating on:
 
 ---
 
-# 🐍 GitHub Contribution Snake
-
-> **Enable GitHub Actions using the workflow below.**
-
-Create:
-
-```
-.github/workflows/snake.yml
-```
-
-Paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-          github_user_name: Aparnarajes
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After enabling GitHub Actions, this image will work:
-
-```html
-<img src="https://raw.githubusercontent.com/Aparnarajes/Aparnarajes/output/github-contribution-grid-snake-dark.svg"/>
-```
-
----
 
 # 💡 Fun Fact
 
