@@ -75,30 +75,6 @@
 | 🐍 **Dhanwis Techinfo Solutions** | Python Developer Intern | Jan 2025 – Mar 2025 | Developed Python automation scripts, optimized code, and supported backend development. |
 
 
-# 🚀 Featured Projects
-
----
-
-## 🧠 Alzheimer's Disease Prediction
-
-### Machine Learning • Healthcare AI
-
-**Tech Stack**
-
-Python • Scikit-learn • XGBoost • Statsmodels • Pandas • NumPy • Seaborn
-
-### Highlights
-
-- Built an end-to-end ML pipeline for Alzheimer's prediction.
-- Performed extensive EDA and feature engineering.
-- Applied VIF analysis and correlation thresholding.
-- Benchmarked multiple ML algorithms.
-- Achieved **95%+ prediction accuracy**.
-- Identified the most influential clinical predictors.
-
----
-
-## 📈 Apple Stock Price Prediction
 
 ### Deep Learning • Time Series Forecasting
 
@@ -126,49 +102,7 @@ Python • TensorFlow • GRU • ONNX Runtime • Streamlit
 
 ---
 
-## 🚗 Car Price Prediction System
 
-### Machine Learning • Regression
-
-**Tech Stack**
-
-Python • Scikit-learn • Random Forest • XGBoost • Streamlit
-
-### Highlights
-
-- Compared six regression algorithms.
-- Performed complete EDA and feature engineering.
-- Selected Random Forest as best model.
-- Built a production-ready prediction application.
-
----
-
-## 🎓 IntelliCampus
-
-### AI Powered Smart Campus Platform
-
-**Tech Stack**
-
-React.js
-
-Node.js
-
-Prisma
-
-SQLite
-
-MongoDB
-
-### Features
-
-- Student Dashboard
-- Faculty Dashboard
-- Admin Dashboard
-- AI Academic Assistant
-- Attendance Management
-- Analytics Dashboard
-- Predictive Student Performance
-- Role-based Authentication
 
 ### Recognition
 
@@ -178,21 +112,6 @@ MongoDB
 
 ---
 
-
-# 🏆 Achievements
-
-| Achievement | Description |
-|-------------|-------------|
-| 🏅 IEEE Conference | Research accepted for presentation |
-| 🚀 KCST | Approved Innovation Project |
-| 🎓 CGPA | **8.76 / 10** |
-| 📚 Class XII | **92%** |
-| 🌟 Class X | Full A+ |
-| 👩‍💼 Vice President | AI & ML Department |
-| 📊 Business Analyst Club | Active Member |
-| 🤖 Data Science Club | Active Member |
-
----
 
 # 🎓 Education
 
@@ -220,37 +139,6 @@ MongoDB
 
 </div>
 
-
-
-
-
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:aparnarajeshapzz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aparnarajesh25">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aparnarajes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-eight-ecru-74.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-
-
-
----
 
 # 📊 Coding Activity
 
