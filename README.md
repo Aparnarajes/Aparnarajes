@@ -58,31 +58,19 @@
 | 📊 **Wayeva Technologies** | Data Science Intern | May 2025 – Jul 2025 | Developed predictive ML models, conducted EDA, feature engineering, and model evaluation. |
 | 🐍 **Dhanwis Techinfo Solutions** | Python Developer Intern | Jan 2025 – Mar 2025 | Developed Python automation scripts, optimized code, and supported backend development. |
 
+#  Featured Projects
 
+🔹 **IntelliCampus** — AI-powered Smart Campus Management Platform  
+🌐 https://intellicampus-alpha.vercel.app
 
-# 🚀 Featured Projects
+🔹 **Apple Stock Price Prediction** — GRU-based Deep Learning Forecasting  
+💻 https://github.com/Aparnarajes/APPLE-STOCK-PRICE-PREDICTION-FORECASTING-30-DAYS-
 
-### 🎓 IntelliCampus
-AI-powered Smart Campus Management Platform  
-🔗 **Live:** https://intellicampus-alpha.vercel.app • **Repo:** https://github.com/Aparnarajes/INTELLICAMPUS
+🔹 **Car Price Prediction** — Machine Learning Regression Application  
+💻 https://github.com/Aparnarajes/Car24_price_prediction
 
----
-
-### 📈 Apple Stock Price Prediction
-GRU-based deep learning model for 30-day stock forecasting.  
-🔗 https://github.com/Aparnarajes/APPLE-STOCK-PRICE-PREDICTION-FORECASTING-30-DAYS-
-
----
-
-### 🚗 Car Price Prediction
-Machine learning web application for used car price prediction.  
-🔗 https://github.com/Aparnarajes/Car24_price_prediction
-
----
-
-### 🧠 MindSight
-AI-powered mental health prediction and analysis system.  
-🔗 https://github.com/Aparnarajes/MINDSIGHT-Mental-health-prediction-and-analysis-system
+🔹 **MindSight** — AI-powered Mental Health Prediction System  
+💻 https://github.com/Aparnarajes/MINDSIGHT-Mental-health-prediction-and-analysis-system
 
 ### Recognition
 
